@@ -101,4 +101,4 @@ if __name__ == "__main__":
 
 - image with image tag
 
-<img width="400px"src="https://github.com/waghrahul60/github-docs-example/blob/main/image.png" />
+<img width="400px" src="https://github.com/waghrahul60/github-docs-example/blob/main/image.png" />
