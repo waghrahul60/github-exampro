@@ -117,11 +117,26 @@ ls: cannot access '/nonexistent_directory': No such file or directory
 ## Step 3 - Use github flavered Task List
 
 Github extends Markdown to have a list where you cab check off items.
+- [x] Finish Step 1
+- [] finish Step 2
+- [] finish Step 3
+
+## Step 4 - Used imoji
+
+GitHub Flavord Markdoen (GFM) Emojis
+
+
+| Name  | Shortcode | Emoji |
+| ------------- | ------------- | ------------- |
+| Cloud  | `:cloud:`  | :cloud: |
+| cloud_with_snow | `:cloud_with_snow:` | :cloud_with_snow: |
+
 
 
 ## References
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[1]</sup>
 - [Archtrtecture diagram ](https://lucid.app/lucidchart/e3f15b1a-2211-4ddb-8c95-f144c2504db4/edit?invitationId=inv_0873b3c6-c652-463f-9f2b-fa0f1b420823&page=0_0#)
-- [GFM task list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
+- [GFM - task list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
+- [GFM - Emoji sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
