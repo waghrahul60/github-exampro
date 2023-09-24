@@ -2,7 +2,7 @@
 
 ## Step 1 - Using CodeBlocks.
 
-Codeblocks in markdown is *very easy* for tech peoplr to **copy** the code.
+Codeblocks in markdown is *very easy* for tech peoplr to **copy** the code. [<sup>[1]</sup>](#references)
 
 
 In order to create code block you need to used backtiks.
@@ -131,13 +131,15 @@ GitHub Flavord Markdoen (GFM) Emojis
 | Cloud  | `:cloud:`  | :cloud: |
 | cloud_with_snow | `:cloud_with_snow:` | :cloud_with_snow: |
 
+## Step 4 - Github tables
+
 ```md
 | Name  | Shortcode | Emoji |
 | ------------- | ------------- | ------------- |
 | Cloud  | `:cloud:`  | :cloud: |
 | cloud_with_snow | `:cloud_with_snow:` | :cloud_with_snow: |
 ```
-
+Github Extends the functionality of Markdoen tables to provide more alignment and table cellformatting options. [<sup>[2]</sup>](#references)
 
 
 ## References
@@ -146,4 +148,5 @@ GitHub Flavord Markdoen (GFM) Emojis
 - [Archtrtecture diagram ](https://lucid.app/lucidchart/e3f15b1a-2211-4ddb-8c95-f144c2504db4/edit?invitationId=inv_0873b3c6-c652-463f-9f2b-fa0f1b420823&page=0_0#)
 - [GFM - task list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 - [GFM - Emoji sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GFM - Tables ](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) <sup>[2]</sup>
 
