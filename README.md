@@ -102,3 +102,26 @@ if __name__ == "__main__":
 - image with image tag
 
 <img width="400px" src="https://github.com/waghrahul60/github-docs-example/blob/main/image.png" />
+
+Good cloud Enginners use codeblocks for both code and Errors that appers in console
+
+
+```bash
+$ ls /nonexistent_directory
+ls: cannot access '/nonexistent_directory': No such file or directory
+
+```
+
+> This is the most import quote // this is used for errors that appers on bash
+
+## Step 3 - Use github flavered Task List
+
+Github extends Markdown to have a list where you cab check off items.
+
+
+## References
+
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[1]</sup>
+- [Archtrtecture diagram ](https://lucid.app/lucidchart/e3f15b1a-2211-4ddb-8c95-f144c2504db4/edit?invitationId=inv_0873b3c6-c652-463f-9f2b-fa0f1b420823&page=0_0#)
+- [GFM task list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
+
