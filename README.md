@@ -131,6 +131,13 @@ GitHub Flavord Markdoen (GFM) Emojis
 | Cloud  | `:cloud:`  | :cloud: |
 | cloud_with_snow | `:cloud_with_snow:` | :cloud_with_snow: |
 
+```md
+| Name  | Shortcode | Emoji |
+| ------------- | ------------- | ------------- |
+| Cloud  | `:cloud:`  | :cloud: |
+| cloud_with_snow | `:cloud_with_snow:` | :cloud_with_snow: |
+```
+
 
 
 ## References
